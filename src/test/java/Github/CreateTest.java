@@ -1,3 +1,4 @@
+package Github;
 import org.testng.annotations.Test;
 
 public class CreateTest {
